@@ -31,7 +31,7 @@
     "request": "^2.88.2",
     "url": "^0.11.0",
     "uuid": "^7.0.3",
-    "xlsx": "^0.16.0"
+    "xlsx": "^0.17.0"
   },
   "devDependencies": {
     "arkit": "^1.6.4"
